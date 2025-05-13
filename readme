@@ -1,0 +1,22 @@
+sql-practice/
+├── README.md
+├── 01_Basics/
+│   ├── SELECT_statements.sql
+│   ├── WHERE_conditions.sql
+│   └── LIMIT_OFFSET.sql
+├── 02_Joins/
+│   ├── INNER_JOIN.sql
+│   ├── LEFT_RIGHT_JOIN.sql
+│   └── FULL_OUTER_JOIN.sql
+├── 03_Aggregations/
+│   ├── GROUP_BY.sql
+│   ├── HAVING.sql
+│   └── COUNT_SUM_AVG.sql
+├── 04_Subqueries/
+│   └── subquery_examples.sql
+├── 05_Data_Manipulation/
+│   ├── INSERT.sql
+│   ├── UPDATE.sql
+│   └── DELETE.sql
+└── notes/
+    └── theory_notes.md
